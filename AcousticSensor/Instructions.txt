@@ -1,0 +1,2 @@
+Acoustic Color Sensor.
+To get it to work, plug the yellow wire to Analog port 0 in the pin closest to the center of the roboRIO following with red (power) and black (ground) in the other pins within the same port.
